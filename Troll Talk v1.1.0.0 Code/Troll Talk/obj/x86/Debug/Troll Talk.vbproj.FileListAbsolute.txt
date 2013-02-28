@@ -1,0 +1,21 @@
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\bin\Debug\Troll Talk.exe
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\bin\Debug\Troll Talk.pdb
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\bin\Debug\Troll Talk.xml
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\Troll Talk.exe
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\Troll Talk.xml
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\Troll Talk.pdb
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.FormProfiles.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.FormCustom.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.FormChangelog.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.FormCredits.resources
+C:\Users\Kyle123197\documents\visual studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.UserControl1.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Debug\Troll Talk.exe.manifest
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Debug\Troll Talk.application
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\Troll Talk.exe.manifest
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\Troll Talk.application
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Debug\WindowsApplication1.FormContact.resources
