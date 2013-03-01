@@ -1,0 +1,20 @@
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Release\Troll Talk.exe.manifest
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Release\Troll Talk.application
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Release\Troll Talk.exe
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Release\Troll Talk.pdb
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\bin\Release\Troll Talk.xml
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.FormProfiles.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.FormCustom.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.FormChangelog.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.FormCredits.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\WindowsApplication1.UserControl1.resources
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\Troll Talk.exe.manifest
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\Troll Talk.application
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\Troll Talk.exe
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\Troll Talk.xml
+C:\Users\Kyle123197\Documents\Visual Studio 2010\Projects\Troll Talk\Troll Talk\obj\x86\Release\Troll Talk.pdb
